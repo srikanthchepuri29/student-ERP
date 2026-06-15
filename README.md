@@ -45,8 +45,7 @@ The admin page is used to modify all tables such as Students, Teachers, Departme
 
 **For more details regarding the system and features please refer the reports included.**
 
-## Update (12
-/6/2026)
+Update (12/6/2026)
 
 Added method to reset attendance time range in Django Admin page.
 
